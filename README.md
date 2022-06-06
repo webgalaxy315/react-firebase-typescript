@@ -46,6 +46,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Author
-Name: Kenji Nakamura
-email: dragondev1017@gmail.com
+Name: Zeng Gang
+email: ZengGang315@gmail.com
 --------------------------------
